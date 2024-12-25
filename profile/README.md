@@ -1,7 +1,7 @@
-<div align="right">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-white.png">
-    <img alt="Spectrum Logo" width="300px" src="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-white.png">
+    <img alt="Spectrum Logo" width="400px" src="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-white.png">
   </picture>
 </div>
 
