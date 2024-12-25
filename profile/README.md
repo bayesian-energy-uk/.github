@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-black.png">
-  <img alt="Spectrum Logo" width="400px" src="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-white.png">
+  <img alt="Spectrum Logo" width="300px" src="https://github.com/spectrum-energy-uk/.github/blob/main/profile/img/spectrum-rectangle-white.png">
   <a href="https://www.spectrum-energy.co.uk/">
   <br>
 </picture>
